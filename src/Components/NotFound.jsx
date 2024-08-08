@@ -1,14 +1,12 @@
-import React from "react";
-import Feed from './Feed/Feed';
-import Loading from "../Helper/Loading";
+import React from 'react';
 
 const NotFound = () => {
-    return (
-        <div className="container mainContainer">
-            <h1 className="title" >Erro: 404</h1>
-            <p>Página não encontrada.</p>
-        </div>
-    );
+  return (
+    <div className="container mainContainer">
+      <h1 className="title">Erro: 404</h1>
+      <p>Página não encontrada.</p>
+    </div>
+  );
 };
 
 export default NotFound;
