@@ -1,5 +1,4 @@
 import React from "react";
-// import styles from './Footer.module.css';
 import Feed from './Feed/Feed';
 import Loading from "../Helper/Loading";
 
